@@ -1,7 +1,9 @@
+package main
+
 import "fmt"
 
-func main(){
+func main() {
 
-	fmt.PrintL("Hello World");
+	fmt.PrintL("Hello World")
 	return 0
 }
